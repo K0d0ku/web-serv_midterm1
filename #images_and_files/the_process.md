@@ -1,4 +1,7 @@
-# web-service development midterm task
+# web-service development 1st midterm task  
+
+## Update  
+the explanation process for the [sequel](https://github.com/K0d0ku/web-serv_midterm2) can be seen here [the_process2.md](https://github.com/K0d0ku/web-serv_midterm2/blob/main/%23images_and_files_2/the_process2.md).  
 
 ## in here i show my process/progress in the making of this project and fulfilling its requirements  
 !!! The list of **_Tools_** and **_Packages_** are listed in [README.md](https://github.com/K0d0ku/web-serv_midterm/blob/master/README.md)  
