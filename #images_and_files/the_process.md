@@ -21,7 +21,7 @@ Table of contents
 - [Additional content](#additional-content)
 
 ## Requirements
-i was given a list of requirements to make the project by following it so i can pass my midterm  
+i was given a list of requirements to make the project by following it so i can pass my 1st midterm  
 the list of requirements are:
 ![requirements](https://github.com/K0d0ku/web-serv_midterm/blob/master/%23images_and_files/requirements.png)  
 and following that list i have fulfilled the needed job to do:
