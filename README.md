@@ -3,6 +3,11 @@
   
 it is unknown if the project will be continued or abandoned if there wont be any further tasks after midterm but either way will be archived after the semester   
 
+### Update  
+at the time being professor gave a project task as a 2nd midterm so this repo and project has a [sequel](https://github.com/K0d0ku/web-serv_midterm2) `(2nd midterm project)` now,   
+in this project i made the api with `.NET CORE Web API`, but the 2nd project has to be made in Golang,  
+___after the subject will end both this and the sequel repository will be archived___.  
+
 ## the process  
 you can see the process of making this project here in the : [the_process.md](https://github.com/K0d0ku/web-serv_midterm/blob/master/%23images_and_files/the_process.md) `(it is mandatory to check)`  
 
