@@ -1,4 +1,4 @@
-# web-service development midterm task  
+# web-service development 1st midterm task  
 ## repo created for my 1st midterm for my subject in - Web services development  
   
 it is unknown if the project will be continued or abandoned if there wont be any further tasks after midterm but either way will be archived after the semester   
